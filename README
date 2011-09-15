@@ -8,10 +8,12 @@ Zur Versionskontrolle und Code-Sharing wird github benutzt.
 Maven
 
 3. Wie wird sichergestellt, dass alle Gruppenmitglieder das Projekt kompilieren koennen
-bö
+Mit Maven
 
 4. Wie wird sichergestellt, dass alle Gruppenmitglieder die noetigen 3rd Party Libraries installiert haben
-bö
+Mit Maven
+
+Maven (sucks) rulez!!!!
 
 Anleitung zur Installation und Start der Applikation
 ====================================================
