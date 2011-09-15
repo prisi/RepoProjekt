@@ -1,0 +1,19 @@
+READ ME
+=======
+
+1. Wie wird die Zusammenarbeit im Hinblick auf Source Control geregelt
+Zur Versionskontrolle und Code-Sharing wird github benutzt. 
+
+2. Welches ist das geeignet Build Tool fuer das Projekt
+Maven
+
+3. Wie wird sichergestellt, dass alle Gruppenmitglieder das Projekt kompilieren koennen
+bö
+
+4. Wie wird sichergestellt, dass alle Gruppenmitglieder die noetigen 3rd Party Libraries installiert haben
+bö
+
+Anleitung zur Installation und Start der Applikation
+====================================================
+
+HelloWorld.java im Ordner src ausführen
