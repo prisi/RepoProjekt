@@ -13,9 +13,9 @@ Mit Maven
 4. Wie wird sichergestellt, dass alle Gruppenmitglieder die noetigen 3rd Party Libraries installiert haben
 Mit Maven
 
-Maven (sucks) rulez!!!!
-
 Anleitung zur Installation und Start der Applikation
 ====================================================
+1. mvn install
+2. Um die Appliaktion zu starten einfach das entsprechende .class file im target directory ausführen
+3. mvn eclipse:eclipse ausfüren falls man mit eclipse programmieren möchte
 
-HelloWorld.java im Ordner src ausführen
