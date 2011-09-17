@@ -13,6 +13,9 @@ Mit Maven
 4. Wie wird sichergestellt, dass alle Gruppenmitglieder die noetigen 3rd Party Libraries installiert haben
 Mit Maven
 
+5. Wie lassen Sie ihre Testsuite laufen?
+mvn test
+
 Anleitung zur Installation und Start der Applikation
 ====================================================
 1. mvn install
