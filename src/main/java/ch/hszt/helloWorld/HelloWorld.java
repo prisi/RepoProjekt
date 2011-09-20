@@ -8,5 +8,6 @@ public class HelloWorld{
 
 	public void printMessage(){
 		System.out.print("Hello World");
+		System.out.print("Projekt von A.Schmid, C.Zeugin und P.Schneider")
 	}
 }
